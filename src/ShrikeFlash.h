@@ -1,12 +1,5 @@
 /*
  * ShrikeFlash.h
- * Engineer - Deepak Sharda - dshardan007@gmail.com
- * 
- * Single header library for FPGA flashing on RP2040
- * 
- * Installation:
- * 1. Save this file as "ShrikeFlash.h" in your sketch folder
- * 2. Or put it in Arduino/libraries/ShrikeFlash/src/ folder
  * 
  * Usage:
  *   #include "ShrikeFlash.h"
